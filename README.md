@@ -3,21 +3,20 @@
  This project aims to analyze loan default data to identify patterns and factors influencing whether a borrower is likely to default on their loan. By employing exploratory data analysis (EDA) techniques, we can derive insights that help a consumer finance company make informed lending decisions, thereby minimizing credit loss. The dataset contains information about past loan applicants and their repayment statuses, enabling us to distinguish between applicants who defaulted on their loans and those who did not.
 
 ## Table of Contents
- * Objectives
- * Data Source
- * Methodology
- * Key Insights
- * Technologies Used
- * Files Included
- * How to Run the Project
- * Conclusion
- * Contact
-
-
+ * [Objectives](#objectives)
+ * [Data Source](#data-source)
+ * [Methodology](#methodology)
+ * [Key Insights](#key-insights)
+ * [Technologies Used](#technologies-used)
+ * [Files Included](#files-included)
+ * [How to Run the Project](#how-to-run-the-project)
+ * [Conclusion](#conclusion)
+ * [Contact](#contact)
+  
 ## Objectives
-  - Understand the driving factors behind loan default.
-  - Identify high-risk loan applicants to reduce potential credit loss.
-  - Develop a set of insights that can assist in loan approval decisions.
+- Understand the driving factors behind loan default.
+- Identify high-risk loan applicants to reduce potential credit loss.
+- Develop a set of insights that can assist in loan approval decisions.
 
 ## Data Source
   - The dataset includes comprehensive loan information from 2007 to 2011. It contains various applicant and loan attributes that can influence the likelihood of default.
@@ -70,10 +69,3 @@
 ## Contact
  - Created by [@sunkarasireesha] 
  - feel free to contact us via sunkara.sireesha1@gmail.com , suraj.sunny24@gmail.com
-
-
-
-
-
-
-
